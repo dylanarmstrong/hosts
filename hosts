@@ -178,3 +178,12 @@
 0.0.0.0 igodigital.com
 0.0.0.0 www.yext-pixel.com
 
+# office365
+0.0.0.0 nexus.officeapps.live.com
+0.0.0.0 client-office365-tas.msedge.net
+0.0.0.0 config.edge.skype.com
+0.0.0.0 nexusrules.officeapps.live.com
+0.0.0.0 officeclient.microsoft.com
+0.0.0.0 templateservice.office.com
+0.0.0.0 store.office.com
+0.0.0.0 odc.officeapps.com
