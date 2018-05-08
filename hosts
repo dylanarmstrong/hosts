@@ -186,10 +186,10 @@
 0.0.0.0 officeclient.microsoft.com
 0.0.0.0 templateservice.office.com
 0.0.0.0 store.office.com
-0.0.0.0 odc.officeapps.com
 0.0.0.0 contentstorage.osi.office.net
 0.0.0.0 officecdn.microsoft.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
-0.0.0.0 ols.officeapps.live.com
 0.0.0.0 officeci-mauservice.azurewebsites.net
 0.0.0.0 roaming.officeapps.live.com
+#0.0.0.0 odc.officeapps.com
+#0.0.0.0 ols.officeapps.live.com
