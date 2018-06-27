@@ -220,7 +220,7 @@
 0.0.0.0 apnews.com
 0.0.0.0 cnn.com
 0.0.0.0 www.cnn.com
-0.0.0.0 arstechnica.com
+#0.0.0.0 arstechnica.com
 0.0.0.0 wsj.com
 0.0.0.0 www.wsj.com
 0.0.0.0 bloomberg.com
