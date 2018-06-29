@@ -246,3 +246,8 @@
 0.0.0.0 www.wired.com
 0.0.0.0 foxnews.com
 0.0.0.0 www.foxnews.com
+
+# no, fuck off
+0.0.0.0 guce.oath.com
+0.0.0.0 consent.cmp.oath.com
+0.0.0.0 guce.huffingtonpost.co.uk
