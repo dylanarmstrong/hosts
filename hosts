@@ -252,7 +252,7 @@
 0.0.0.0 www.cnbc.com
 
 # no, fuck off
-0.0.0.0 guce.oath.com
+# 0.0.0.0 guce.oath.com
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 guce.huffingtonpost.co.uk
 
