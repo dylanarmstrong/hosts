@@ -208,7 +208,9 @@
 
 # break from news
 0.0.0.0 bbc.com
+0.0.0.0 bbc.co.uk
 0.0.0.0 www.bbc.com
+0.0.0.0 www.bbc.co.uk
 0.0.0.0 theguardian.com
 0.0.0.0 www.theguardian.com
 0.0.0.0 news-api.apple.com
@@ -220,18 +222,9 @@
 0.0.0.0 apnews.com
 0.0.0.0 cnn.com
 0.0.0.0 www.cnn.com
-0.0.0.0 arstechnica.com
-0.0.0.0 wired.com
-0.0.0.0 wired.co.uk
-0.0.0.0 www.wired.co.uk
-0.0.0.0 www.wired.com
 0.0.0.0 wsj.com
 0.0.0.0 www.wsj.com
-0.0.0.0 bloomberg.com
-0.0.0.0 www.bloomberg.com
 0.0.0.0 theintercept.com
-0.0.0.0 motherboard.vice.com
-0.0.0.0 vice.com
 0.0.0.0 news.sky.com
 0.0.0.0 www.abc.net.au
 0.0.0.0 www.vox.com
