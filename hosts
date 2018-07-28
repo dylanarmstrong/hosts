@@ -206,43 +206,8 @@
 #0.0.0.0 odc.officeapps.com
 #0.0.0.0 ols.officeapps.live.com
 
-# break from news
-0.0.0.0 bbc.com
-0.0.0.0 bbc.co.uk
-0.0.0.0 www.bbc.com
-0.0.0.0 www.bbc.co.uk
-0.0.0.0 theguardian.com
-0.0.0.0 www.theguardian.com
-0.0.0.0 news-api.apple.com
-0.0.0.0 apple.news
-0.0.0.0 fivethirtyeight.com
-0.0.0.0 nytimes.com
-0.0.0.0 mobile.nytimes.com
-0.0.0.0 www.nytimes.com
-0.0.0.0 apnews.com
-0.0.0.0 cnn.com
-0.0.0.0 www.cnn.com
-0.0.0.0 wsj.com
-0.0.0.0 www.wsj.com
-0.0.0.0 theintercept.com
-0.0.0.0 news.sky.com
-0.0.0.0 www.abc.net.au
-0.0.0.0 www.vox.com
-0.0.0.0 www.cbsnews.com
-0.0.0.0 abcnews.go.com
-0.0.0.0 www.wbrz.com
-0.0.0.0 www.kansascity.com
-0.0.0.0 www.10tv.com
-0.0.0.0 www.nbcnews.com
-0.0.0.0 news.sky.com
-0.0.0.0 yahoo.com
-0.0.0.0 www.yahoo.com
-0.0.0.0 www.washingtonpost.com
+# bad news
 0.0.0.0 thehill.com
-0.0.0.0 foxnews.com
-0.0.0.0 www.foxnews.com
-0.0.0.0 cnbc.com
-0.0.0.0 www.cnbc.com
 
 # no, fuck off
 0.0.0.0 guce.oath.com
