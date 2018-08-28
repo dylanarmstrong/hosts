@@ -75,7 +75,7 @@
 0.0.0.0 beacon.gu-web.net
 
 # queue
-0.0.0.0 static.queue-it.net
+#0.0.0.0 static.queue-it.net
 
 # counter-factual serving up shit
 0.0.0.0 cdn.cockpitreport.win
