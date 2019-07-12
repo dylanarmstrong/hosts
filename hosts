@@ -75,7 +75,7 @@
 0.0.0.0 beacon.gu-web.net
 
 # queue
-#0.0.0.0 static.queue-it.net
+# 0.0.0.0 static.queue-it.net
 
 # counter-factual serving up shit
 0.0.0.0 cdn.cockpitreport.win
@@ -191,21 +191,21 @@
 0.0.0.0 www.frequencybalance.com
 
 # office365
-#0.0.0.0 nexus.officeapps.live.com
-#0.0.0.0 client-office365-tas.msedge.net
-#0.0.0.0 config.edge.skype.com
-#0.0.0.0 nexusrules.officeapps.live.com
-#0.0.0.0 officeclient.microsoft.com
-#0.0.0.0 templateservice.office.com
-#0.0.0.0 store.office.com
-#0.0.0.0 contentstorage.osi.office.net
-#0.0.0.0 officecdn.microsoft.com
-#0.0.0.0 mobile.pipe.aria.microsoft.com
-#0.0.0.0 officeci-mauservice.azurewebsites.net
+# 0.0.0.0 nexus.officeapps.live.com
+# 0.0.0.0 client-office365-tas.msedge.net
+# 0.0.0.0 config.edge.skype.com
+# 0.0.0.0 nexusrules.officeapps.live.com
+# 0.0.0.0 officeclient.microsoft.com
+# 0.0.0.0 templateservice.office.com
+# 0.0.0.0 store.office.com
+# 0.0.0.0 contentstorage.osi.office.net
+# 0.0.0.0 officecdn.microsoft.com
+# 0.0.0.0 mobile.pipe.aria.microsoft.com
+# 0.0.0.0 officeci-mauservice.azurewebsites.net
 # Required for verification of license
-#0.0.0.0 roaming.officeapps.live.com
-#0.0.0.0 odc.officeapps.com
-#0.0.0.0 ols.officeapps.live.com
+# 0.0.0.0 roaming.officeapps.live.com
+# 0.0.0.0 odc.officeapps.com
+# 0.0.0.0 ols.officeapps.live.com
 
 # bad news
 0.0.0.0 thehill.com
@@ -226,3 +226,6 @@
 
 # ecobee
 # 0.0.0.0 js.maxmind.com
+
+# royalroad
+0.0.0.0 s.nitropay.com
