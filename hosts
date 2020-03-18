@@ -1,4 +1,4 @@
-# meinhimmel hosts
+# dylanarmstrong hosts
 # these are my own additional annoying domains
 # may break your web spontaneously
 
@@ -54,9 +54,6 @@
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 newrelic.com
 0.0.0.0 api.branch.io
-0.0.0.0 cdns.gigya.com
-0.0.0.0 cdns.us1.gigya.com
-0.0.0.0 socialize.us1.gigya.com
 
 # ps4 remote play
 0.0.0.0 smetrics.aem.playstation.com
