@@ -41,7 +41,6 @@
 # facebook
 0.0.0.0 connect.facebook.net
 0.0.0.0 connect.facebook.com
-# 0.0.0.0 staticxx.facebook.com
 
 # included domains not blocked by default
 0.0.0.0 auto.search.msn.com
