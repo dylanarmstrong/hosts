@@ -203,9 +203,6 @@
 # 0.0.0.0 odc.officeapps.com
 # 0.0.0.0 ols.officeapps.live.com
 
-# bad news
-0.0.0.0 thehill.com
-
 # no, fuck off
 0.0.0.0 guce.oath.com
 0.0.0.0 consent.cmp.oath.com
